@@ -19,3 +19,5 @@ event_data.to_csv(new_fname, sep='\t', index=False)
 
 # done
 print("New file saved at {}".format(new_fname))
+
+print("Finished!")
